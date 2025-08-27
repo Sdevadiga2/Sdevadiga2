@@ -15,7 +15,7 @@ I am an Information Science Engineering student at Srinivas Institute of Technol
 ---
 [![](https://visitcount.itsvg.in/api?id=Sdevadiga2&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <!--
 **Sdevadiga2/Sdevadiga2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
